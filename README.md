@@ -1,5 +1,5 @@
-# **AVA-Dialogues**
-## **Dataset with dialogues for AVA to behave like JARVIS from Iron Man**
+# **AVA**
+## **Datasets for training AVA to behave like JARVIS from Iron Man**
 A dataset customized for training purposes to strictly behave like JARVIS created by Tony Stark. This is strictly conversational data so that the personally built LLM can use the same langauge pattern as that of JARVIS. It's strictly formal.
 
 I will add more datasets here so that a JARVIS like LLM can respond to any or all of the user queries with that butler-like attitude. 
