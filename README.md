@@ -1,7 +1,7 @@
 # **AVA**
 
 ## **AVA**
-*Defining AVA*
+*Defining AVA:*
 
 AVA is a personal LLM project of mine from which I intend to learn more about python, AI in general, and GitHub itself too. I have always wanted to have an AI assistant that could do everything like JARVIS and this is my take on it. AVA has capabilities of a generic assistant right now, however, that's not enough. Hence, I am making a personalized Language Model which helps me get closer to my goal of making my very own AI.
 
